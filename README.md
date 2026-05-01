@@ -12,8 +12,8 @@
 
 | Resource | Link |
 |---|---|
-| 🌐 Live App (Vercel) | *[Add your Vercel URL here]* |
-| 💼 LinkedIn Post | *[Add your LinkedIn post URL here]* |
+| 🌐 Live App (Vercel) | https://ai-a6-wimpus-agent.vercel.app/wumpus.html |
+| 💼 LinkedIn Post | https://www.linkedin.com/posts/muhammad-abdullah-a95b16328_artificialintelligence-propositionallogic-ugcPost-7456061507961810944-jmCQ |
 | 📁 GitHub Repo | https://github.com/rao-abdullah-dev |
 
 ---
